@@ -1,8 +1,8 @@
 # admin-panel
 ## Integrantes :
-Favio bonilla Morales
-Andres Garces Alvarez
-Marcelo Ceballos Benitez
+Favio bonilla Morales, 
+Andres Garces Alvarez, 
+Marcelo Ceballos Benitez, 
 Javier Hernandez Guzman
 ##
 
